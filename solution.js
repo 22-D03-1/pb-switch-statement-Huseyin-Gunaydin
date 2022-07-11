@@ -25,7 +25,7 @@ switch (color) {
     break;
 }
 
-// Frage 2
+// Frage 2****
 const grade = "A";
 switch (grade) {
   case "A":
